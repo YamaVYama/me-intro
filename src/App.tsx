@@ -1,4 +1,3 @@
-import { useState } from "react";
 import styles from "./index.module.css";
 import "@mantine/core/styles.css";
 import { MantineProvider, Title } from "@mantine/core";
